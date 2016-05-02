@@ -31,3 +31,21 @@ body{
     border: 1px solid blue;
     padding: 20px;
 }
+
+#top_menu{
+    background:blue;
+    color: white;
+}
+
+#top_menu li {
+    display:inline-block;
+}
+
+
+
+
+
+
+
+
+

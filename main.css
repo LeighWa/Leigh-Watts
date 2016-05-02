@@ -37,7 +37,7 @@ body{
     color: white;
 }
 
-#top_menu ul {
+#top_menu li {
     display:inline-block;
 }
 

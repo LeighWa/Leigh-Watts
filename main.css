@@ -10,3 +10,24 @@ h1{
 h2{
     font: bold 14px Tahoma;
 }
+
+header, section, nav, footer, aside, hgroup, article{
+    display:block;
+}
+
+body{
+    text-align: center;
+}
+
+#big_wrapper{
+    border: 1px solid black;
+    width: 1000px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+#top_header{
+    background: yellow;
+    border: 1px solid blue;
+    padding: 20px;
+}
